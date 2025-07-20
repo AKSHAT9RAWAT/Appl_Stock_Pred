@@ -29,10 +29,6 @@ A web app for stock price movement prediction using technical indicators, Decisi
    # On Mac/Linux:
    source venv/bin/activate
    ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
@@ -51,6 +47,3 @@ A web app for stock price movement prediction using technical indicators, Decisi
 - The model is trained on AAPL data. Predictions for other tickers are for demo only.
 - For real predictions on other stocks, retrain the model on their data.
 
-## License
-
-MIT
