@@ -18,7 +18,7 @@ A web app for stock price movement prediction using technical indicators, Decisi
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/smartquant-stock-predictor.git
+   git clone https://github.com/AKSHAT9RAWAT/Appl_Stock_Pred
    cd smartquant-stock-predictor
    ```
 2. (Recommended) Create and activate a virtual environment:
